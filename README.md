@@ -6,17 +6,59 @@
 
 | Total Problems | Topics |
 |---|---|
-| 1 | 3 |
+| 16 | 11 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
+- [binary search](#binary-search) (1)
+- [brute force](#brute-force) (4)
+- [combinatorics](#combinatorics) (1)
+- [constructive algorithms](#constructive-algorithms) (2)
+- [dp](#dp) (1)
 - [games](#games) (1)
-- [math](#math) (1)
-- [number theory](#number-theory) (1)
+- [greedy](#greedy) (5)
+- [implementation](#implementation) (4)
+- [math](#math) (9)
+- [number theory](#number-theory) (4)
+- [sortings](#sortings) (1)
 
 ---
+
+### binary search
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 371C | [Hamburgers](https://codeforces.com/contest/371/problem/C) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/yugam-dtu/codeforce/blob/HEAD/371/C%20-%20Hamburgers/solution.cpp) |
+
+### brute force
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 271A | [Beautiful Year](https://codeforces.com/contest/271/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/yugam-dtu/codeforce/blob/HEAD/271/A%20-%20Beautiful%20Year/solution.cpp) |
+| 371C | [Hamburgers](https://codeforces.com/contest/371/problem/C) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/yugam-dtu/codeforce/blob/HEAD/371/C%20-%20Hamburgers/solution.cpp) |
+| 1269A | [Equation](https://codeforces.com/contest/1269/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/yugam-dtu/codeforce/blob/HEAD/1269/A%20-%20Equation/solution.cpp) |
+| 1855B | [Longest Divisors Interval](https://codeforces.com/contest/1855/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/yugam-dtu/codeforce/blob/HEAD/1855/B%20-%20Longest%20Divisors%20Interval/solution.cpp) |
+
+### combinatorics
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1855B | [Longest Divisors Interval](https://codeforces.com/contest/1855/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/yugam-dtu/codeforce/blob/HEAD/1855/B%20-%20Longest%20Divisors%20Interval/solution.cpp) |
+
+### constructive algorithms
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1405B | [Array Cancellation](https://codeforces.com/contest/1405/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/yugam-dtu/codeforce/blob/HEAD/1405/B%20-%20Array%20Cancellation/solution.cpp) |
+| 1859B | [Olya and Game with Arrays](https://codeforces.com/contest/1859/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/yugam-dtu/codeforce/blob/HEAD/1859/B%20-%20Olya%20and%20Game%20with%20Arrays/solution.cpp) |
+
+### dp
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2195C | [Dice Roll Sequence](https://codeforces.com/contest/2195/problem/C) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/yugam-dtu/codeforce/blob/HEAD/2195/C%20-%20Dice%20Roll%20Sequence/solution.cpp) |
 
 ### games
 
@@ -24,17 +66,53 @@
 |---|---------|------------|----------|
 | 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/yugam-dtu/codeforce/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.cpp) |
 
+### greedy
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1509B | [TMT Document](https://codeforces.com/contest/1509/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/yugam-dtu/codeforce/blob/HEAD/1509/B%20-%20TMT%20Document/solution.cpp) |
+| 1661A | [Array Balancing](https://codeforces.com/contest/1661/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/yugam-dtu/codeforce/blob/HEAD/1661/A%20-%20Array%20Balancing/solution.cpp) |
+| 1855B | [Longest Divisors Interval](https://codeforces.com/contest/1855/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/yugam-dtu/codeforce/blob/HEAD/1855/B%20-%20Longest%20Divisors%20Interval/solution.cpp) |
+| 1859B | [Olya and Game with Arrays](https://codeforces.com/contest/1859/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/yugam-dtu/codeforce/blob/HEAD/1859/B%20-%20Olya%20and%20Game%20with%20Arrays/solution.cpp) |
+| 2195C | [Dice Roll Sequence](https://codeforces.com/contest/2195/problem/C) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/yugam-dtu/codeforce/blob/HEAD/2195/C%20-%20Dice%20Roll%20Sequence/solution.cpp) |
+
+### implementation
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 227B | [Effective Approach](https://codeforces.com/contest/227/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/yugam-dtu/codeforce/blob/HEAD/227/B%20-%20Effective%20Approach/solution.cpp) |
+| 758A | [Holiday Of Equality](https://codeforces.com/contest/758/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/yugam-dtu/codeforce/blob/HEAD/758/A%20-%20Holiday%20Of%20Equality/solution.cpp) |
+| 1405B | [Array Cancellation](https://codeforces.com/contest/1405/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/yugam-dtu/codeforce/blob/HEAD/1405/B%20-%20Array%20Cancellation/solution.cpp) |
+| 1714A | [Everyone Loves to Sleep](https://codeforces.com/contest/1714/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/yugam-dtu/codeforce/blob/HEAD/1714/A%20-%20Everyone%20Loves%20to%20Sleep/solution.cpp) |
+
 ### math
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 758A | [Holiday Of Equality](https://codeforces.com/contest/758/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/yugam-dtu/codeforce/blob/HEAD/758/A%20-%20Holiday%20Of%20Equality/solution.cpp) |
+| 1269A | [Equation](https://codeforces.com/contest/1269/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/yugam-dtu/codeforce/blob/HEAD/1269/A%20-%20Equation/solution.cpp) |
+| 1374B | [Multiply by 2, divide by 6](https://codeforces.com/contest/1374/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/yugam-dtu/codeforce/blob/HEAD/1374/B%20-%20Multiply%20by%202%2C%20divide%20by%206/solution.cpp) |
+| 1661A | [Array Balancing](https://codeforces.com/contest/1661/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/yugam-dtu/codeforce/blob/HEAD/1661/A%20-%20Array%20Balancing/solution.cpp) |
+| 1714A | [Everyone Loves to Sleep](https://codeforces.com/contest/1714/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/yugam-dtu/codeforce/blob/HEAD/1714/A%20-%20Everyone%20Loves%20to%20Sleep/solution.cpp) |
+| 1855B | [Longest Divisors Interval](https://codeforces.com/contest/1855/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/yugam-dtu/codeforce/blob/HEAD/1855/B%20-%20Longest%20Divisors%20Interval/solution.cpp) |
+| 1859B | [Olya and Game with Arrays](https://codeforces.com/contest/1859/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/yugam-dtu/codeforce/blob/HEAD/1859/B%20-%20Olya%20and%20Game%20with%20Arrays/solution.cpp) |
 | 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/yugam-dtu/codeforce/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.cpp) |
+| 2195A | [Sieve of Erato67henes](https://codeforces.com/contest/2195/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/yugam-dtu/codeforce/blob/HEAD/2195/A%20-%20Sieve%20of%20Erato67henes/solution.cpp) |
 
 ### number theory
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 630A | [Again Twenty Five!](https://codeforces.com/contest/630/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/yugam-dtu/codeforce/blob/HEAD/630/A%20-%20Again%20Twenty%20Five!/solution.cpp) |
+| 1855B | [Longest Divisors Interval](https://codeforces.com/contest/1855/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/yugam-dtu/codeforce/blob/HEAD/1855/B%20-%20Longest%20Divisors%20Interval/solution.cpp) |
 | 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/yugam-dtu/codeforce/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.cpp) |
+| 2195A | [Sieve of Erato67henes](https://codeforces.com/contest/2195/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/yugam-dtu/codeforce/blob/HEAD/2195/A%20-%20Sieve%20of%20Erato67henes/solution.cpp) |
+
+### sortings
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1859B | [Olya and Game with Arrays](https://codeforces.com/contest/1859/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/yugam-dtu/codeforce/blob/HEAD/1859/B%20-%20Olya%20and%20Game%20with%20Arrays/solution.cpp) |
 
 ---
 
