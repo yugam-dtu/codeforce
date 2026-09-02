@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 61 | 20 |
+| 62 | 20 |
 
 ---
 
@@ -23,10 +23,10 @@
 - [dsu](#dsu) (1)
 - [games](#games) (4)
 - [geometry](#geometry) (1)
-- [greedy](#greedy) (23)
+- [greedy](#greedy) (24)
 - [hashing](#hashing) (2)
 - [implementation](#implementation) (14)
-- [math](#math) (33)
+- [math](#math) (34)
 - [number theory](#number-theory) (23)
 - [schedules](#schedules) (1)
 - [sortings](#sortings) (8)
@@ -153,6 +153,7 @@
 | 1661A | [Array Balancing](https://codeforces.com/contest/1661/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/yugam-dtu/codeforce/blob/HEAD/1661/A%20-%20Array%20Balancing/solution.cpp) |
 | 1669F | [Eating Candies](https://codeforces.com/contest/1669/problem/F) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/yugam-dtu/codeforce/blob/HEAD/1669/F%20-%20Eating%20Candies/solution.cpp) |
 | 1855B | [Longest Divisors Interval](https://codeforces.com/contest/1855/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/yugam-dtu/codeforce/blob/HEAD/1855/B%20-%20Longest%20Divisors%20Interval/solution.cpp) |
+| 1857A | [Array Coloring](https://codeforces.com/contest/1857/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/yugam-dtu/codeforce/blob/HEAD/1857/A%20-%20Array%20Coloring/solution.cpp) |
 | 1859B | [Olya and Game with Arrays](https://codeforces.com/contest/1859/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/yugam-dtu/codeforce/blob/HEAD/1859/B%20-%20Olya%20and%20Game%20with%20Arrays/solution.cpp) |
 | 1900A | [Cover in Water](https://codeforces.com/contest/1900/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/yugam-dtu/codeforce/blob/HEAD/1900/A%20-%20Cover%20in%20Water/solution.cpp) |
 | 1901A | [Line Trip](https://codeforces.com/contest/1901/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/yugam-dtu/codeforce/blob/HEAD/1901/A%20-%20Line%20Trip/solution.cpp) |
@@ -218,6 +219,7 @@
 | 1714A | [Everyone Loves to Sleep](https://codeforces.com/contest/1714/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/yugam-dtu/codeforce/blob/HEAD/1714/A%20-%20Everyone%20Loves%20to%20Sleep/solution.cpp) |
 | 1838C | [No Prime Differences](https://codeforces.com/contest/1838/problem/C) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/yugam-dtu/codeforce/blob/HEAD/1838/C%20-%20No%20Prime%20Differences/solution.cpp) |
 | 1855B | [Longest Divisors Interval](https://codeforces.com/contest/1855/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/yugam-dtu/codeforce/blob/HEAD/1855/B%20-%20Longest%20Divisors%20Interval/solution.cpp) |
+| 1857A | [Array Coloring](https://codeforces.com/contest/1857/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/yugam-dtu/codeforce/blob/HEAD/1857/A%20-%20Array%20Coloring/solution.cpp) |
 | 1859B | [Olya and Game with Arrays](https://codeforces.com/contest/1859/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/yugam-dtu/codeforce/blob/HEAD/1859/B%20-%20Olya%20and%20Game%20with%20Arrays/solution.cpp) |
 | 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/yugam-dtu/codeforce/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.cpp) |
 | 1901A | [Line Trip](https://codeforces.com/contest/1901/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/yugam-dtu/codeforce/blob/HEAD/1901/A%20-%20Line%20Trip/solution.cpp) |
