@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 63 | 20 |
+| 64 | 20 |
 
 ---
 
@@ -14,7 +14,7 @@
 
 - [binary search](#binary-search) (5)
 - [bitmasks](#bitmasks) (2)
-- [brute force](#brute-force) (10)
+- [brute force](#brute-force) (11)
 - [combinatorics](#combinatorics) (1)
 - [constructive algorithms](#constructive-algorithms) (15)
 - [data structures](#data-structures) (5)
@@ -25,7 +25,7 @@
 - [geometry](#geometry) (1)
 - [greedy](#greedy) (24)
 - [hashing](#hashing) (2)
-- [implementation](#implementation) (14)
+- [implementation](#implementation) (15)
 - [math](#math) (34)
 - [number theory](#number-theory) (23)
 - [schedules](#schedules) (1)
@@ -64,6 +64,7 @@
 | 1617B | [GCD Problem](https://codeforces.com/contest/1617/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/yugam-dtu/codeforce/blob/HEAD/1617/B%20-%20GCD%20Problem/solution.cpp) |
 | 1855B | [Longest Divisors Interval](https://codeforces.com/contest/1855/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/yugam-dtu/codeforce/blob/HEAD/1855/B%20-%20Longest%20Divisors%20Interval/solution.cpp) |
 | 1903A | [Halloumi Boxes](https://codeforces.com/contest/1903/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/yugam-dtu/codeforce/blob/HEAD/1903/A%20-%20Halloumi%20Boxes/solution.cpp) |
+| 1904A | [Forked!](https://codeforces.com/contest/1904/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/yugam-dtu/codeforce/blob/HEAD/1904/A%20-%20Forked!/solution.cpp) |
 | 2258B1 | [Carrot Chopdown (Easy Version)](https://codeforces.com/contest/2258/problem/B1) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/yugam-dtu/codeforce/blob/HEAD/2258/B1%20-%20Carrot%20Chopdown%20(Easy%20Version)/solution.cpp) |
 | 2258B2 | [Carrot Chopdown (Hard Version)](https://codeforces.com/contest/2258/problem/B2) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/yugam-dtu/codeforce/blob/HEAD/2258/B2%20-%20Carrot%20Chopdown%20(Hard%20Version)/solution.cpp) |
 
@@ -192,6 +193,7 @@
 | 1405B | [Array Cancellation](https://codeforces.com/contest/1405/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/yugam-dtu/codeforce/blob/HEAD/1405/B%20-%20Array%20Cancellation/solution.cpp) |
 | 1714A | [Everyone Loves to Sleep](https://codeforces.com/contest/1714/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/yugam-dtu/codeforce/blob/HEAD/1714/A%20-%20Everyone%20Loves%20to%20Sleep/solution.cpp) |
 | 1900A | [Cover in Water](https://codeforces.com/contest/1900/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/yugam-dtu/codeforce/blob/HEAD/1900/A%20-%20Cover%20in%20Water/solution.cpp) |
+| 1904A | [Forked!](https://codeforces.com/contest/1904/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/yugam-dtu/codeforce/blob/HEAD/1904/A%20-%20Forked!/solution.cpp) |
 | 1966B | [Rectangle Filling](https://codeforces.com/contest/1966/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/yugam-dtu/codeforce/blob/HEAD/1966/B%20-%20Rectangle%20Filling/solution.cpp) |
 | 2244E | [Masha and the Garland](https://codeforces.com/contest/2244/problem/E) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/yugam-dtu/codeforce/blob/HEAD/2244/E%20-%20Masha%20and%20the%20Garland/solution.cpp) |
 | 2258B2 | [Carrot Chopdown (Hard Version)](https://codeforces.com/contest/2258/problem/B2) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/yugam-dtu/codeforce/blob/HEAD/2258/B2%20-%20Carrot%20Chopdown%20(Hard%20Version)/solution.cpp) |
