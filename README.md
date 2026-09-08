@@ -6,13 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 73 | 21 |
+| 74 | 21 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [Uncategorized](#uncategorized) (4)
+- [Uncategorized](#uncategorized) (5)
 - [binary search](#binary-search) (6)
 - [bitmasks](#bitmasks) (2)
 - [brute force](#brute-force) (14)
@@ -44,6 +44,7 @@
 | 2259B | [Minus Two](https://codeforces.com/contest/2259/problem/B) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/yugam-dtu/codeforce/blob/HEAD/2259/B%20-%20Minus%20Two/solution.cpp) |
 | 2259C | [101](https://codeforces.com/contest/2259/problem/C) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/yugam-dtu/codeforce/blob/HEAD/2259/C%20-%20101/solution.cpp) |
 | 2260B | [Monocarp and Projects](https://codeforces.com/contest/2260/problem/B) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/yugam-dtu/codeforce/blob/HEAD/2260/B%20-%20Monocarp%20and%20Projects/solution.cpp) |
+| 2260C | [Maximize XOR, Minimize Operations](https://codeforces.com/contest/2260/problem/C) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/yugam-dtu/codeforce/blob/HEAD/2260/C%20-%20Maximize%20XOR%2C%20Minimize%20Operations/solution.cpp) |
 
 ### binary search
 
